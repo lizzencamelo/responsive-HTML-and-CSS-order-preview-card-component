@@ -9,6 +9,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
+- [Author](#author)
 
 
 ### The challenge
@@ -38,3 +39,7 @@ Creating an efficient responsive layout was my main focus with this minor projec
 - Flexbox
 - Mobile-first workflow
 - Media queries
+
+
+## Author
+- Frontend Mentor - [@lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
