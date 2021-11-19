@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/responsivehtmlandcsspreviewcardcomponentwithcssflexbox-67z5i2uiA
-- Live Site URL: https://lizzencamelo.github.io/Responsive-HTML-and-CSS-Preview-Card-Component/
+- Solution URL: [View my solution](https://www.frontendmentor.io/solutions/responsivehtmlandcsspreviewcardcomponentwithcssflexbox-67z5i2uiA)
+- Live Site URL: [Preview-Card-Component](https://lizzencamelo.github.io/Responsive-HTML-and-CSS-Preview-Card-Component/)
 
 ## My process
 
