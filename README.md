@@ -4,12 +4,12 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Table of contents
 
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-- [Author](#author)
+&nbsp;&nbsp; ▪️ [The challenge](#the-challenge)  
+&nbsp;&nbsp; ▪️ [Screenshot](#screenshot)  
+&nbsp;&nbsp; ▪️ [Links](#links)  
+&nbsp;&nbsp; ▪️ [My process](#my-process)  
+&nbsp;&nbsp; ▪️ [Built with](#built-with)  
+&nbsp;&nbsp; ▪️ [Author](#author)  
 
 
 ### The challenge
@@ -42,4 +42,4 @@ Creating an efficient responsive layout was my main focus with this minor projec
 
 
 ## Author
-- Frontend Mentor - [@lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
+⭐ [@lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
