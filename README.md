@@ -41,5 +41,4 @@ Creating an efficient responsive layout was my main focus with this minor projec
 - Media queries
 
 
-## Author
-⭐ [@lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
+## Author | [@lizzencamelo](https://www.frontendmentor.io/profile/lizzencamelo)
