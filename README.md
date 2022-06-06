@@ -28,7 +28,9 @@ Users should be able to:
 
 ## My process
 
-Creating an efficient responsive layout was my main focus with this minor project. CSS flexbox and media queries were first implemented followed by styling the website.
+    Creating an efficient responsive layout was my main focus with this minor project.  
+    Analysed design.  
+    Implemented CSS flexbox and media queries.
 
 ### Built with
 
